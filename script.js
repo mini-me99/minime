@@ -127,7 +127,7 @@ const products = [
         description: 'بيجامات خريفي سمر ميلتون - Price per piece: 350, Quantity: 6',
         category: 'tops',
         size: '2-3y',
-        images: ['product1-1.jpg'],
+        images: ['product1-1.jpg', 'product1-2.jpg'],
         qrCode: 'MINIME-9170'
     },
     {
@@ -137,7 +137,7 @@ const products = [
         description: 'بيجامات خريفي سمر ميلتون - Price per piece: 350, Quantity: 6',
         category: 'tops',
         size: '4-5y',
-        images: ['product2-1.jpg'],
+        images: ['product2-1.jpg', 'product2-2.jpg'],
         qrCode: 'MINIME-9162'
     },
     {
@@ -147,7 +147,7 @@ const products = [
         description: 'بيجامات خريفي سمر ميلتون - Price per piece: 350, Quantity: 6',
         category: 'tops',
         size: '6-7y',
-        images: ['product3-1.jpg'],
+        images: ['product3-1.jpg', 'product3-2.jpg'],
         qrCode: 'MINIME-9170'
     },
     {
@@ -157,7 +157,7 @@ const products = [
         description: 'بيجامات خريفي سمر ميلتون - Price per piece: 350, Quantity: 6',
         category: 'tops',
         size: '2-3y',
-        images: ['product4-1.jpg'],
+        images: ['product4-1.jpg', 'product4-2.jpg'],
         qrCode: 'MINIME-9159'
     },
     {
@@ -167,7 +167,7 @@ const products = [
         description: 'بيجامات خريفي سمر ميلتون - Price per piece: 350, Quantity: 6',
         category: 'tops',
         size: '4-5y',
-        images: ['product5-1.jpg'],
+        images: ['product5-1.jpg', 'product5-2.jpg'],
         qrCode: 'MINIME-9158'
     },
     {
@@ -177,7 +177,7 @@ const products = [
         description: 'بيجامات خريفي سمر ميلتون - Price per piece: 350, Quantity: 6',
         category: 'tops',
         size: '6-7y',
-        images: ['product6-1.jpg'],
+        images: ['product6-1.jpg', 'product6-2.jpg'],
         qrCode: 'MINIME-9160'
     },
     {
@@ -187,7 +187,7 @@ const products = [
         description: 'بيجامات خريفي سمر ميلتون - Price per piece: 350, Quantity: 6',
         category: 'tops',
         size: '2-3y',
-        images: ['product7-1.jpg'],
+        images: ['product7-1.jpg', 'product7-2.jpg'],
         qrCode: 'MINIME-9156'
     },
     {
@@ -197,7 +197,7 @@ const products = [
         description: 'بيجامات خريفي سمر ميلتون - Price per piece: 350, Quantity: 6',
         category: 'tops',
         size: '4-5y',
-        images: ['product8-1.jpg'],
+        images: ['product8-1.jpg', 'product8-2.jpg'],
         qrCode: 'MINIME-9167'
     },
     {
@@ -207,7 +207,7 @@ const products = [
         description: 'بيجامات خريفي سمر ميلتون - Price per piece: 350, Quantity: 6',
         category: 'tops',
         size: '6-7y',
-        images: ['product9-1.jpg'],
+        images: ['product9-1.jpg', 'product9-2.jpg'],
         qrCode: 'MINIME-9165'
     },
     {
@@ -217,7 +217,7 @@ const products = [
         description: 'بيجامات خريفي سمر ميلتون - Price per piece: 350, Quantity: 6',
         category: 'tops',
         size: '2-3y',
-        images: ['product10-1.jpg'],
+        images: ['product10-1.jpg', 'product10-2.jpg'],
         qrCode: 'MINIME-9163'
     },
     {
@@ -227,7 +227,7 @@ const products = [
         description: 'بيجامات خريفي سمر ميلتون - Price per piece: 350, Quantity: 6',
         category: 'tops',
         size: '4-5y',
-        images: ['product11-1.jpg'],
+        images: ['product11-1.jpg', 'product11-2.jpg'],
         qrCode: 'MINIME-9168'
     },
     {
@@ -237,7 +237,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي سمر ميلتون H&M من ٢-١٠ - Price per piece: 395, Quantity: 5',
         category: 'tops',
         size: '2-3y',
-        images: ['product12-1.jpg'],
+        images: ['product12-1.jpg', 'product12-2.jpg'],
         qrCode: 'MINIME-9198'
     },
     {
@@ -247,7 +247,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي سمر ميلتون H&M من ٢-١٠ - Price per piece: 395, Quantity: 5',
         category: 'tops',
         size: '4-5y',
-        images: ['product13-1.jpg'],
+        images: ['product13-1.jpg', 'product13-2.jpg'],
         qrCode: 'MINIME-9202'
     },
     {
@@ -257,7 +257,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي سمر ميلتون H&M من ٢-١٠ - Price per piece: 385, Quantity: 5',
         category: 'tops',
         size: '6-7y',
-        images: ['product14-1.jpg'],
+        images: ['product14-1.jpg', 'product14-2.jpg'],
         qrCode: 'MINIME-9211'
     },
     {
@@ -267,7 +267,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي سمر ميلتون H&M من ٢-١٠ - Price per piece: 385, Quantity: 5',
         category: 'tops',
         size: '8-9y',
-        images: ['product15-1.jpg'],
+        images: ['product15-1.jpg', 'product15-2.jpg'],
         qrCode: 'MINIME-9212'
     },
     {
@@ -277,7 +277,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي سمر ميلتون H&M من ٢-١٠ - Price per piece: 385, Quantity: 5',
         category: 'tops',
         size: '9-10y',
-        images: ['product16-1.jpg'],
+        images: ['product16-1.jpg', 'product16-2.jpg'],
         qrCode: 'MINIME-9205'
     },
     {
@@ -287,7 +287,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي سمر ميلتون H&M من ٢-١٠ - Price per piece: 385, Quantity: 5',
         category: 'tops',
         size: '2-3y',
-        images: ['product17-1.jpg'],
+        images: ['product17-1.jpg', 'product17-2.jpg'],
         qrCode: 'MINIME-9208'
     },
     {
@@ -297,7 +297,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي خامه كرينكل SHEIN من ٢-١٠ - Price per piece: 360, Quantity: 5',
         category: 'tops',
         size: '4-5y',
-        images: ['product18-1.jpg'],
+        images: ['product18-1.jpg', 'product18-2.jpg'],
         qrCode: 'MINIME-9217'
     },
     {
@@ -307,7 +307,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي انترلوك قطن من 9m:36 m - Price per piece: 190, Quantity: 12',
         category: 'tops',
         size: '2-3y',
-        images: ['product19-1.jpg'],
+        images: ['product19-1.jpg', 'product19-2.jpg'],
         qrCode: 'MINIME-9088'
     },
     {
@@ -317,7 +317,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي انترلوك قطن من 9m:36 m - Price per piece: 190, Quantity: 12',
         category: 'tops',
         size: '2-3y',
-        images: ['product20-1.jpg'],
+        images: ['product20-1.jpg', 'product20-2.jpg'],
         qrCode: 'MINIME-9088'
     },
     {
@@ -327,7 +327,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي انترلوك قطن من 9m:36 m - Price per piece: 190, Quantity: 12',
         category: 'tops',
         size: '2-3y',
-        images: ['product21-1.jpg'],
+        images: ['product21-1.jpg', 'product21-2.jpg'],
         qrCode: 'MINIME-9088'
     },
     {
@@ -337,7 +337,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي انترلوك قطن من 9m:36 m - Price per piece: 190, Quantity: 12',
         category: 'tops',
         size: '2-3y',
-        images: ['product22-1.jpg'],
+        images: ['product22-1.jpg', 'product22-2.jpg'],
         qrCode: 'MINIME-9088'
     },
     {
@@ -347,7 +347,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي انترلوك قطن من 9m:36 m - Price per piece: 190, Quantity: 12',
         category: 'tops',
         size: '2-3y',
-        images: ['product23-1.jpg'],
+        images: ['product23-1.jpg', 'product23-2.jpg'],
         qrCode: 'MINIME-9088'
     },
     {
@@ -357,7 +357,7 @@ const products = [
         description: 'بيجامات mini me 🦋 خريفي انترلوك قطن من 9m:36 m - Price per piece: 190, Quantity: 12',
         category: 'tops',
         size: '2-3y',
-        images: ['product24-1.jpg'],
+        images: ['product24-1.jpg', 'product24-2.jpg'],
         qrCode: 'MINIME-9088'
     },
     {
@@ -367,7 +367,7 @@ const products = [
         description: 'فستان بلورو و اندر mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 295, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product25-1.jpg'],
+        images: ['product25-1.jpg', 'product25-2.jpg'],
         qrCode: 'MINIME-9281'
     },
     {
@@ -377,7 +377,7 @@ const products = [
         description: 'فستان بلورو و اندر mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 295, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product26-1.jpg'],
+        images: ['product26-1.jpg', 'product26-2.jpg'],
         qrCode: 'MINIME-9283'
     },
     {
@@ -387,7 +387,7 @@ const products = [
         description: 'فستان بلورو و اندر mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 295, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product27-1.jpg'],
+        images: ['product27-1.jpg', 'product27-2.jpg'],
         qrCode: 'MINIME-9284'
     },
     {
@@ -397,7 +397,7 @@ const products = [
         description: 'فستان بلورو و اندر mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 295, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product28-1.jpg'],
+        images: ['product28-1.jpg', 'product28-2.jpg'],
         qrCode: 'MINIME-9280'
     },
     {
@@ -407,7 +407,7 @@ const products = [
         description: 'فستان بلورو و اندر mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 295, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product29-1.jpg'],
+        images: ['product29-1.jpg', 'product29-2.jpg'],
         qrCode: 'MINIME-9286'
     },
     {
@@ -417,7 +417,7 @@ const products = [
         description: 'فستان بلورو و اندر mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 295, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product30-1.jpg'],
+        images: ['product30-1.jpg', 'product30-2.jpg'],
         qrCode: 'MINIME-9282'
     },
     {
@@ -427,7 +427,7 @@ const products = [
         description: 'فستان كم و سورتيت mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 255, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product31-1.jpg'],
+        images: ['product31-1.jpg', 'product31-2.jpg'],
         qrCode: 'MINIME-9293'
     },
     {
@@ -437,7 +437,7 @@ const products = [
         description: 'فستان كم و سورتيت mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 255, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product32-1.jpg'],
+        images: ['product32-1.jpg', 'product32-2.jpg'],
         qrCode: 'MINIME-9289'
     },
     {
@@ -447,7 +447,7 @@ const products = [
         description: 'فستان كم و سورتيت mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 255, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product33-1.jpg'],
+        images: ['product33-1.jpg', 'product33-2.jpg'],
         qrCode: 'MINIME-9292'
     },
     {
@@ -457,7 +457,7 @@ const products = [
         description: 'فستان كم و سورتيت mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 255, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product34-1.jpg'],
+        images: ['product34-1.jpg', 'product34-2.jpg'],
         qrCode: 'MINIME-9287'
     },
     {
@@ -467,7 +467,7 @@ const products = [
         description: 'فستان كم و سورتيت mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 255, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product35-1.jpg'],
+        images: ['product35-1.jpg', 'product35-2.jpg'],
         qrCode: 'MINIME-9295'
     },
     {
@@ -477,7 +477,7 @@ const products = [
         description: 'فستان كم و سورتيت mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 255, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product36-1.jpg'],
+        images: ['product36-1.jpg', 'product36-2.jpg'],
         qrCode: 'MINIME-9296'
     },
     {
@@ -487,7 +487,7 @@ const products = [
         description: 'فستان كم و سورتيت mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 255, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product37-1.jpg'],
+        images: ['product37-1.jpg', 'product37-2.jpg'],
         qrCode: 'MINIME-9290'
     },
     {
@@ -497,7 +497,7 @@ const products = [
         description: 'فستان كم و سورتيت mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 255, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product38-1.jpg'],
+        images: ['product38-1.jpg', 'product38-2.jpg'],
         qrCode: 'MINIME-9288'
     },
     {
@@ -507,7 +507,7 @@ const products = [
         description: 'فستان كم و سورتيت mini me 🦋 خريفي انترلوك قطن من ٦-٢٤ شهر - Price per piece: 255, Quantity: 5',
         category: 'dresses',
         size: '2-3y',
-        images: ['product39-1.jpg'],
+        images: ['product39-1.jpg', 'product39-2.jpg'],
         qrCode: 'MINIME-9294'
     },
     {
@@ -517,7 +517,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي سمر ميلتون قطن من ٦-١٨ شهر - Price per piece: 275, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product40-1.jpg'],
+        images: ['product40-1.jpg', 'product40-2.jpg'],
         qrCode: 'MINIME-9179'
     },
     {
@@ -527,7 +527,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي سمر ميلتون قطن من ٦-١٨ شهر - Price per piece: 275, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product41-1.jpg'],
+        images: ['product41-1.jpg', 'product41-2.jpg'],
         qrCode: 'MINIME-9175'
     },
     {
@@ -537,7 +537,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي سمر ميلتون قطن من ٦-١٨ شهر - Price per piece: 275, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product42-1.jpg'],
+        images: ['product42-1.jpg', 'product42-2.jpg'],
         qrCode: 'MINIME-9173'
     },
     {
@@ -547,7 +547,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي سمر ميلتون قطن من ٦-١٨ شهر - Price per piece: 275, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product43-1.jpg'],
+        images: ['product43-1.jpg', 'product43-2.jpg'],
         qrCode: 'MINIME-9177'
     },
     {
@@ -557,7 +557,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي سمر ميلتون قطن من ٦-١٨ شهر - Price per piece: 275, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product44-1.jpg'],
+        images: ['product44-1.jpg', 'product44-2.jpg'],
         qrCode: 'MINIME-9178'
     },
     {
@@ -567,7 +567,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي سمر ميلتون قطن من ٦-١٨ شهر - Price per piece: 275, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product45-1.jpg'],
+        images: ['product45-1.jpg', 'product45-2.jpg'],
         qrCode: 'MINIME-9176'
     },
     {
@@ -577,7 +577,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي سمر ميلتون قطن من ٦-١٨ شهر - Price per piece: 275, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product46-1.jpg'],
+        images: ['product46-1.jpg', 'product46-2.jpg'],
         qrCode: 'MINIME-9171'
     },
     {
@@ -587,7 +587,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي سمر ميلتون قطن من ٦-١٨ شهر - Price per piece: 275, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product47-1.jpg'],
+        images: ['product47-1.jpg', 'product47-2.jpg'],
         qrCode: 'MINIME-9172'
     },
     {
@@ -597,7 +597,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي سمر ميلتون قطن من ٦-١٨ شهر - Price per piece: 275, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product48-1.jpg'],
+        images: ['product48-1.jpg', 'product48-2.jpg'],
         qrCode: 'MINIME-9174'
     },
     {
@@ -607,7 +607,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product49-1.jpg'],
+        images: ['product49-1.jpg', 'product49-2.jpg'],
         qrCode: 'MINIME-9267'
     },
     {
@@ -617,7 +617,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product50-1.jpg'],
+        images: ['product50-1.jpg', 'product50-2.jpg'],
         qrCode: 'MINIME-9276'
     },
     {
@@ -627,7 +627,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product51-1.jpg'],
+        images: ['product51-1.jpg', 'product51-2.jpg'],
         qrCode: 'MINIME-9266'
     },
     {
@@ -637,7 +637,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product52-1.jpg'],
+        images: ['product52-1.jpg', 'product52-2.jpg'],
         qrCode: 'MINIME-9275'
     },
     {
@@ -647,7 +647,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product53-1.jpg'],
+        images: ['product53-1.jpg', 'product53-2.jpg'],
         qrCode: 'MINIME-9273'
     },
     {
@@ -657,7 +657,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product54-1.jpg'],
+        images: ['product54-1.jpg', 'product54-2.jpg'],
         qrCode: 'MINIME-9270'
     },
     {
@@ -667,7 +667,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product55-1.jpg'],
+        images: ['product55-1.jpg', 'product55-2.jpg'],
         qrCode: 'MINIME-9268'
     },
     {
@@ -677,7 +677,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product56-1.jpg'],
+        images: ['product56-1.jpg', 'product56-2.jpg'],
         qrCode: 'MINIME-9269'
     },
     {
@@ -687,7 +687,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product57-1.jpg'],
+        images: ['product57-1.jpg', 'product57-2.jpg'],
         qrCode: 'MINIME-9274'
     },
     {
@@ -697,7 +697,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product58-1.jpg'],
+        images: ['product58-1.jpg', 'product58-2.jpg'],
         qrCode: 'MINIME-9277'
     },
     {
@@ -707,7 +707,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product59-1.jpg'],
+        images: ['product59-1.jpg', 'product59-2.jpg'],
         qrCode: 'MINIME-9271'
     },
     {
@@ -717,7 +717,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product60-1.jpg'],
+        images: ['product60-1.jpg', 'product60-2.jpg'],
         qrCode: 'MINIME-9272'
     },
     {
@@ -727,7 +727,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product61-1.jpg'],
+        images: ['product61-1.jpg', 'product61-2.jpg'],
         qrCode: 'MINIME-9278'
     },
     {
@@ -737,7 +737,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product62-1.jpg'],
+        images: ['product62-1.jpg', 'product62-2.jpg'],
         qrCode: 'MINIME-9265'
     },
     {
@@ -747,7 +747,7 @@ const products = [
         description: 'سالوبيت mini me 🦋 خريفي إنترلوك قطن من٣-١٢ شهر - Price per piece: 225, Quantity: 4',
         category: 'dresses',
         size: '2-3y',
-        images: ['product63-1.jpg'],
+        images: ['product63-1.jpg', 'product63-2.jpg'],
         qrCode: 'MINIME-9279'
     },
     {
@@ -757,7 +757,7 @@ const products = [
         description: 'توينز mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 350, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product64-1.jpg'],
+        images: ['product64-1.jpg', 'product64-2.jpg'],
         qrCode: 'MINIME-9238'
     },
     {
@@ -767,7 +767,7 @@ const products = [
         description: 'توينز mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 350, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product65-1.jpg'],
+        images: ['product65-1.jpg', 'product65-2.jpg'],
         qrCode: 'MINIME-9238'
     },
     {
@@ -777,7 +777,7 @@ const products = [
         description: 'توينز mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 350, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product66-1.jpg'],
+        images: ['product66-1.jpg', 'product66-2.jpg'],
         qrCode: 'MINIME-9237'
     },
     {
@@ -787,7 +787,7 @@ const products = [
         description: 'توينز mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 350, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product67-1.jpg'],
+        images: ['product67-1.jpg', 'product67-2.jpg'],
         qrCode: 'MINIME-9237'
     },
     {
@@ -797,7 +797,7 @@ const products = [
         description: 'توينز mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 380, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product68-1.jpg'],
+        images: ['product68-1.jpg', 'product68-2.jpg'],
         qrCode: 'MINIME-9240'
     },
     {
@@ -807,7 +807,7 @@ const products = [
         description: 'توينز mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 380, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product69-1.jpg'],
+        images: ['product69-1.jpg', 'product69-2.jpg'],
         qrCode: 'MINIME-9240'
     },
     {
@@ -817,7 +817,7 @@ const products = [
         description: 'توينز mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 380, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product70-1.jpg'],
+        images: ['product70-1.jpg', 'product70-2.jpg'],
         qrCode: 'MINIME-9241'
     },
     {
@@ -827,7 +827,7 @@ const products = [
         description: 'أطقم mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 585, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product71-1.jpg'],
+        images: ['product71-1.jpg', 'product71-2.jpg'],
         qrCode: 'MINIME-9234'
     },
     {
@@ -837,7 +837,7 @@ const products = [
         description: 'أطقم mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 585, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product72-1.jpg'],
+        images: ['product72-1.jpg', 'product72-2.jpg'],
         qrCode: 'MINIME-9234'
     },
     {
@@ -847,7 +847,7 @@ const products = [
         description: 'أطقم mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 585, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product73-1.jpg'],
+        images: ['product73-1.jpg', 'product73-2.jpg'],
         qrCode: 'MINIME-9233'
     },
     {
@@ -857,7 +857,7 @@ const products = [
         description: 'أطقم mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 585, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product74-1.jpg'],
+        images: ['product74-1.jpg', 'product74-2.jpg'],
         qrCode: 'MINIME-9233'
     },
     {
@@ -867,7 +867,7 @@ const products = [
         description: 'أطقم mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 585, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product75-1.jpg'],
+        images: ['product75-1.jpg', 'product75-2.jpg'],
         qrCode: 'MINIME-9232'
     },
     {
@@ -877,7 +877,7 @@ const products = [
         description: 'أطقم mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 625, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product76-1.jpg'],
+        images: ['product76-1.jpg', 'product76-2.jpg'],
         qrCode: 'MINIME-9235'
     },
     {
@@ -887,7 +887,7 @@ const products = [
         description: 'أطقم mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 625, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product77-1.jpg'],
+        images: ['product77-1.jpg', 'product77-2.jpg'],
         qrCode: 'MINIME-9235'
     },
     {
@@ -897,7 +897,7 @@ const products = [
         description: 'أطقم mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 625, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product78-1.jpg'],
+        images: ['product78-1.jpg', 'product78-2.jpg'],
         qrCode: 'MINIME-9236'
     },
     {
@@ -907,7 +907,7 @@ const products = [
         description: 'أطقم mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 625, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product79-1.jpg'],
+        images: ['product79-1.jpg', 'product79-2.jpg'],
         qrCode: 'MINIME-9236'
     },
     {
@@ -917,7 +917,7 @@ const products = [
         description: 'دريس كم mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 265, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product80-1.jpg'],
+        images: ['product80-1.jpg', 'product80-2.jpg'],
         qrCode: 'MINIME-9308'
     },
     {
@@ -927,7 +927,7 @@ const products = [
         description: 'دريس كم mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 265, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product81-1.jpg'],
+        images: ['product81-1.jpg', 'product81-2.jpg'],
         qrCode: 'MINIME-9308'
     },
     {
@@ -937,7 +937,7 @@ const products = [
         description: 'دريس كم mini me 🦋 خريفي لونين من٦-٣٦ و من ٢-٦ - Price per piece: 265, Quantity: 10',
         category: 'dresses',
         size: '2-3y',
-        images: ['product82-1.jpg'],
+        images: ['product82-1.jpg', 'product82-2.jpg'],
         qrCode: 'MINIME-9307'
     },
     {
@@ -947,7 +947,7 @@ const products = [
         description: 'سالوبيت+ تيشرت mini me 🦋 جينز لون و جبردين لونين من ١-٤ - Price per piece: 395, Quantity: 8',
         category: 'dresses',
         size: '2-3y',
-        images: ['product83-1.jpg'],
+        images: ['product83-1.jpg', 'product83-2.jpg'],
         qrCode: 'MINIME-9346'
     },
     {
@@ -957,7 +957,7 @@ const products = [
         description: 'سالوبيت+ تيشرت mini me 🦋 جينز لون و جبردين لونين من ١-٤ - Price per piece: 395, Quantity: 8',
         category: 'dresses',
         size: '2-3y',
-        images: ['product84-1.jpg'],
+        images: ['product84-1.jpg', 'product84-2.jpg'],
         qrCode: 'MINIME-9344'
     },
     {
@@ -967,7 +967,7 @@ const products = [
         description: 'سالوبيت+ تيشرت mini me 🦋 جينز لون و جبردين لونين من ١-٤ - Price per piece: 395, Quantity: 8',
         category: 'dresses',
         size: '2-3y',
-        images: ['product85-1.jpg'],
+        images: ['product85-1.jpg', 'product85-2.jpg'],
         qrCode: 'MINIME-9347'
     },
     {
@@ -977,10 +977,10 @@ const products = [
         description: 'سالوبيت+ تيشرت mini me 🦋 جينز لون و جبردين لونين من ١-٤ - Price per piece: 395, Quantity: 8',
         category: 'dresses',
         size: '2-3y',
-        images: ['product86-1.jpg'],
+        images: ['product86-1.jpg', 'product86-2.jpg'],
         qrCode: 'MINIME-9345'
     }
-];
+]; 
 
 function displayProducts() {
     const productsContainer = document.querySelector('.products-grid');
