@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - Mini Mi Pro</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="login.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div class="login-container">
+        <div class="login-box">
+            <div class="login-header">
+                <h1>Welcome Back</h1>
+                <p>Sign in to continue to Mini Mi Pro</p>
+            </div>
+            
+            <div class="social-login">
+                <button class="google-btn" id="googleLogin">
+                    <i class="fab fa-google"></i>
+                    Continue with Google
+                </button>
+            </div>
+
+            <div class="divider">
+                <span>or</span>
+            </div>
+
+            <form id="loginForm" class="login-form">
+                <div class="form-group">
+                    <input type="email" id="email" required>
+                    <label for="email">Email</label>
+                    <div class="line"></div>
+                </div>
+
+                <div class="form-group">
+                    <input type="password" id="password" required>
+                    <label for="password">Password</label>
+                    <div class="line"></div>
+                </div>
+
+                <div class="form-options">
+                    <label class="remember-me">
+                        <input type="checkbox" id="remember">
+                        <span>Remember me</span>
+                    </label>
+                    <a href="#" class="forgot-password">Forgot Password?</a>
+                </div>
+
+                <button type="submit" class="login-btn">Sign In</button>
+            </form>
+
+            <div class="signup-link">
+                Don't have an account? <a href="#" id="showSignup">Sign up</a>
+            </div>
+        </div>
+
+        <!-- Sign Up Form -->
+        <div class="signup-box hidden">
+            <div class="signup-header">
+                <h1>Create Account</h1>
+                <p>Join Mini Mi Pro today</p>
+            </div>
+
+            <form id="signupForm" class="signup-form">
+                <div class="form-group">
+                    <input type="text" id="name" required>
+                    <label for="name">Full Name</label>
+                    <div class="line"></div>
+                </div>
+
+                <div class="form-group">
+                    <input type="email" id="signupEmail" required>
+                    <label for="signupEmail">Email</label>
+                    <div class="line"></div>
+                </div>
+
+                <div class="form-group">
+                    <input type="password" id="signupPassword" required>
+                    <label for="signupPassword">Password</label>
+                    <div class="line"></div>
+                </div>
+
+                <div class="form-group">
+                    <input type="password" id="confirmPassword" required>
+                    <label for="confirmPassword">Confirm Password</label>
+                    <div class="line"></div>
+                </div>
+
+                <button type="submit" class="signup-btn">Create Account</button>
+            </form>
+
+            <div class="login-link">
+                Already have an account? <a href="#" id="showLogin">Sign in</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/11.5.0/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/11.5.0/firebase-auth-compat.js"></script>
+    <script src="login.js"></script>
+</body>
+</html> 
